@@ -118,6 +118,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "KU homepage"
+      icon: "/images/samf.svg"
+      url: "https://polsci.ku.dk/ansatte/vip/?pure=da/persons/414339"
 
 # Site Footer
 footer:
@@ -140,6 +143,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+
 
 
 # Reading Files
