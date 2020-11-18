@@ -119,7 +119,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "KU homepage"
-      icon: "/images/samf.svg"
+      icon: "fa-twitter on fa-square-o"
       url: "https://politicalscience.ku.dk/staff/PhD_Internal/?pure=en/persons/414339"
 
 # Site Footer
