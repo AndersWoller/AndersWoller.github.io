@@ -97,7 +97,7 @@ author:
   avatar           : "/images/profilepic.jpg"
   bio              : "Postdoctoral fellow"
   location         : "Copenhagen, Denmark"
-  email            :
+  email            : "an@ifs.ku.dk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
