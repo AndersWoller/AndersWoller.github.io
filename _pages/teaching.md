@@ -1,4 +1,4 @@
 ---
 title: "Teaching"
-permalink: /teacing/
+permalink: /teaching/
 ---
