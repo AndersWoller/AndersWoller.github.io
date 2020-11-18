@@ -4,7 +4,7 @@ main:
     url: /Research/
   - title: "Publications"
     url: /pub/
-  - title: "Resume"
-    url: /Resume/
   - title: "Teaching"
     url: /teaching/
+  - title: "Resume"
+    url: /Resume/
