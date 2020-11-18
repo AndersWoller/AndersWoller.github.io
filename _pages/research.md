@@ -1,3 +1,4 @@
 ---
 title: "Research"
-permalink: "/Research/"
+permalink: /Research/
+---
