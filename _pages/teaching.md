@@ -1,4 +1,5 @@
 ---
 title: "Teaching"
-permalink: /teaching/
+permalink:
+author_profile: false
 ---
