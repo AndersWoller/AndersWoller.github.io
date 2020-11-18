@@ -1,4 +1,4 @@
 ---
-title: "Research"
+title: "Current projects"
 permalink: /Research/
 ---
