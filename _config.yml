@@ -107,7 +107,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square" # "fa-twitter on fa-square-o" 
+      icon: "fab fa-fw fa-twitter-square" # "fa-twitter on fa-square-o"
       url: "https://twitter.com/AndersWoller/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -119,7 +119,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "KU homepage"
-      icon: "fa-twitter on fa-square-o"
+      #icon: ""
       url: "https://politicalscience.ku.dk/staff/PhD_Internal/?pure=en/persons/414339"
 
 # Site Footer
