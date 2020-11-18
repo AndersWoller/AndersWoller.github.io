@@ -1,5 +1,5 @@
 # main links
-main: "About"
+main:
   - title: "Current projects"
     url: /Research/
   - title: "Publications"
