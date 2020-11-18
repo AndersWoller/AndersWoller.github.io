@@ -107,7 +107,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "fa-twitter on fa-square-o" #"fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter-square" # "fa-twitter on fa-square-o" 
       url: "https://twitter.com/AndersWoller/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
