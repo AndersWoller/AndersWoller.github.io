@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "contrast" "default" "air", "aqua", "cont
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal website"
+title                    : "Anders Woller"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Anders Woller"
+name                     : "Postdoctoral fellow"
 description              : "Personal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Anders Woller"
   avatar           : "/images/profilepic.jpg"
-  bio              : "Postdoctoral fellow, University of Copenhagen"
+  bio              : "University of Copenhagen"
   location         : "Copenhagen, Denmark"
   email            : "an@ifs.ku.dk"
   phone            : "(+45) 35 33 57 48"
