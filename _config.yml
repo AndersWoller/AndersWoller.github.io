@@ -100,6 +100,8 @@ author:
   email            : "an@ifs.ku.dk"
 
   links:
+    - label: "(+45)35335748"
+      icon:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
@@ -121,6 +123,8 @@ author:
     - label: "Work site"
       #icon: ""
       url: "https://politicalscience.ku.dk/staff/PhD_Internal/?pure=en/persons/414339"
+    - label: "University of Copenhagen's City campus office 12.2.17"
+      icon: "far fa-building"
 
 # Site Footer
 footer:
