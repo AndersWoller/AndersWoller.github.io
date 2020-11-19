@@ -1,5 +1,5 @@
 ---
-title: "Interviewed on the PhD program"
+title: "Interview about the PhD program"
 date: 2019-01-04
 ---
 
