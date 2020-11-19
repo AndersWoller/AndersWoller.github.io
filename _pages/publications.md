@@ -11,3 +11,5 @@ author_profile: true
 <p style="font-size:16px"> <b>Woller, Anders</b> (2020) <i>Electoral Systems and the Autocrat's Trade-Off: Evidence From the Russian Duma</i>, Under review <a href="https://www.dropbox.com/s/cjcu5lwvhlqqydq/Electoral_systems.pdf?dl=0">read</a> <p/>
 
 <p style="font-size:16px"> Olsen, Asmus Leth and <b>Anders Woller</b> (2020) <i>Laypeople’s Economic Recovery Models for a Pandemic</i>, Under review <a href="https://www.dropbox.com/s/v1macvcbdqyjan3/manuscript_econ_covid19.pdf?dl=0">read</a> <p/>
+
+<hr style="border-top: dotted 1px;" />
