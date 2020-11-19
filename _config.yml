@@ -102,9 +102,6 @@ author:
   links:
     - label: "(+45)35335748"
       icon: "fa fa-phone"
-    - label: "Email"
-      icon: "fa fa-envelope"
-      url: "mailto:an@ifs.ku.dk"
     - label: "Twitter"
       icon: "fab fa-twitter" # "fa-twitter on fa-square-o"
       url: "https://twitter.com/AndersWoller/"
