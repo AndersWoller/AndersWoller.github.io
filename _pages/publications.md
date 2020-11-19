@@ -1,9 +1,8 @@
 ---
+title: "Working papers"
 permalink: /pub/
 author_profile: true
 ---
-
-# Working papers
 
 <p style="font-size:16px"> Jacob Gerner Hariri; Mogens Kamp Justesen; <b>Anders Woller</b> (2020)The Cost of Voting and the Cost of Votes, <i> R&R Journal of Politics <i/> </p>
 
