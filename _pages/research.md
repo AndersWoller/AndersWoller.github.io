@@ -2,8 +2,7 @@
 title: "Current projects"
 permalink: /Research/
 ---
-<p style="font-size:15px"> Below you will find the projects I am currently working on. These projects are work in progress (early stage). You are more than welcome to reach out for more info. For more developed work see the "Under review" section. </p>
-
+<p style="font-size:15px"> Below you will find my ongoing. These projects are work in progress. You are welcome to reach out for more info. For more developed work see the "Under review" section. </p>
 
 
 <h2> Distributive Politics in Competitive Vote Markets -- Evidence from Uganda </h2>
