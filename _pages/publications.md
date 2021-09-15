@@ -4,7 +4,7 @@ permalink: /pub/
 author_profile: true
 ---
 
-<p style="font-size:16px"> Jacob Gerner Hariri; Mogens Kamp Justesen; <b>Anders Woller</b> (2020) <i>The Cost of Voting and the Cost of Votes</i>, conditional accept, Journal of Politics <a href="https://www.dropbox.com/s/sx9k171oa3rlcp1/JOP_3rdRound.pdf?dl=0">read</a> <p/>
+<p style="font-size:16px"> Jacob Gerner Hariri; Mogens Kamp Justesen; <b>Anders Woller</b> (2020) <i>The Cost of Voting and the Cost of Votes</i>, conditional accept, Journal of Politics <a href="https://www.dropbox.com/s/76e4zspprdno5u1/JOP_3rdRound.pdf?dl=0">read</a> <p/>
 
 <p style="font-size:16px"> Bowles, Jeremy; Horacio Larreguy; <b>Anders Woller</b> (2020) <i>Information Versus Control: The Electoral Consequences of Polling Place Creation</i>, <a href="https://www.dropbox.com/s/r8syn46829kzhko/draft_5.pdf?dl=0">read</a> <p/>
 
