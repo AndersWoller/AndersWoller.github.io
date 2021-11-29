@@ -10,7 +10,7 @@ author_profile: true
 
 <p style="font-size:16px"> <b>Woller, Anders</b> (2020) <i>Electoral Systems and the Autocrat's Trade-Off: Evidence From the Russian Duma</i>, <a href="https://www.dropbox.com/s/vy3r6x893i23ajh/Electoral_systems.pdf?dl=0">read</a> <p/>
 
-<p style="font-size:16px"> Olsen, Asmus Leth; <b>Anders Woller</b> (2020) <i>Correcting crime misperceptions with statistics? Evidence from two field experiments in online local media</i>, <a href="https://www.dropbox.com/s/1csdfv7e9jtz8o8/manuscript_nhb.pdf?dl=0">read</a> <p/>
+<p style="font-size:16px"> Olsen, Asmus Leth; <b>Anders Woller</b> (2020) <i>Correcting crime misperceptions with statistics? Evidence from two field experiments in online local media</i>, <a href="https://www.dropbox.com/s/kxx3snfcgw7zvb0/manuscript_JOP.pdf?dl=0">read</a> <p/>
 
 <p style="font-size:16px"> Olsen, Asmus Leth and <b>Anders Woller</b> (2020) <i>Laypeople’s Economic Recovery Models for a Pandemic</i>, <a href="https://www.dropbox.com/s/v1macvcbdqyjan3/manuscript_econ_covid19.pdf?dl=0">read</a> <p/>
 
