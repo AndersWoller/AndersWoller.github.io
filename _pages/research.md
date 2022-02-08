@@ -8,10 +8,10 @@ permalink: /Research/
 
 <p align="right">
 
-<p align="right"><p style="font-size:15px"> “It is ironic that bureaucracy is still primarily a term of scorn”</p>
-<p align="right"><p style="font-size:15px"> <b>Anthony Downs</b>, Theory of the Bureaucracy (1965, p. 439)</p>
-<p align="right"><p style="font-size:15px"> “It is easy to inveigh against the bureaucrat because he is a faceless enemy”</p>
-<p align="right"><p style="font-size:15px"> <b>New York Times</b> (1973)</p>
+<p align="right"> <p style="font-size:15px"> “It is ironic that bureaucracy is still primarily a term of scorn” <br>
+<b>Anthony Downs</b>, Theory of the Bureaucracy (1965, p. 439)</p>
+<p align="right"> <p style="font-size:15px"> “It is easy to inveigh against the bureaucrat because he is a faceless enemy” <br>
+<b>New York Times</b> (1973)</p>
 
 <p align="left">
 
