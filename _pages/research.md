@@ -5,6 +5,16 @@ permalink: /Research/
 <p style="font-size:15px"> Below you will find my ongoing. These projects are work in progress. You are welcome to reach out for more info. For more developed work see the "Under review" section. </p>
 
 
+<h2> Countering the Reputation Crisis of Bureaucrats - Field Experimental Evidence From a Nation-Wide Union Campaign <h2> with Asmus Olsen
+
+<p align="center"> Keywords: bureaucrat, public opinion, information, union campaign, job reputation
+
+<p align="right">  “It is ironic that bureaucracy is still primarily a term of scorn”
+<p align="right"> <b>Anthony Downs</b>, Theory of the Bureaucracy (1965, p. 439)
+<p align="right"> “It is easy to inveigh against the bureaucrat because he is a faceless enemy”
+<p align="right"> <b>New York Times</b> (1973)
+
+
 <h2> Broadcasting Pro-Regime Support: The Effect of Local Radio Coverage on 2021 Electoral Results in Uganda </h2> with Camila Blanes, Corbin Duncan and Horacio Larreguy
 
 <p style="font-size:14px"> One way authoritarian regimes win elections is by controlling the media. How does partisan media influence electoral support? And how effectively can autocratic regimes control coverage? We study these questions in Uganda where the importance of media, namely radio, for voter mobilization was amplified by the Covid19-pandemic and the not uniformly enforced ban on ground campaigning. We estimate the local coverage of radio stations ($N=252$) relying on transmitter characteristics and accounting for local topography. We measure individual radio stations' partisanship by 1) manually coding ownership data, and 2) training a machine learning model on social media posts. We geo-code polling station administrative data and merge it with local radio coverage ($N=34,684$). Results suggest that 1) opposition media positively affects opposition, but hurts regime, electoral prospects 2) but only in the 2021, not the 2016, elections 3) and incumbents respond to this by strategically (and successfully) distributing broadcasting licenses to silence critical coverage. </p>
