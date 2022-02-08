@@ -23,7 +23,7 @@ permalink: /Research/
 <p style="font-size:14px">We conduct our field experiment in Denmark, which is ranked in the top-2% of countries in the World Bank’s Government Effectiveness ranking and the least corrupt bureaucracy in the world according to Transparency International’s Corruption Perception Index. Bureaucrats are drawn from some of the most selective higher-education programs in the country, and research suggests that more honest individuals select into public service (Barfort et al., 2019). Despite this, a growing anti-bureaucrat sentiment has taken hold throughout the last decades. One-in-three Danes do not trust that civil servants to do what is best for the country (ISSP, 2018). While this places Danes in the top-20% most trusting citizens (it is every second American), distrust increased 60% between 2006 and 2016. Hauled by the media, the trend has come to be known as “djoefication”<a href="#section1">[1]</a>: a reference to the largest Danish union for bureaucrats “Djøf”, representing 13% of all public employees in Denmark. The anti-bureaucrat sentiment is generally referred to as “djoef-bashing”. </p>
 
 
-<p>[1] The word has even been incorporated in the official dictionary of the Danish language as a “change of a public institution’s administration such that there is a pronounced or even one-sided focus on effectiveness, profitability, and abstract, administrative regulations”.</p>
+<p style="font-size:11px">[1] The word has even been incorporated in the official dictionary of the Danish language as a “change of a public institution’s administration such that there is a pronounced or even one-sided focus on effectiveness, profitability, and abstract, administrative regulations”.</p>
 
 
 
