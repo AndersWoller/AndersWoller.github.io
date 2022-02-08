@@ -4,7 +4,6 @@ permalink: /Research/
 ---
 <p style="font-size:15px"> Here you can read about my ongoing research agenda of improving public trust in bureaucrats. Below, you can also read abstracts of other ongoing projects - all work in progress. You are welcome to reach out for more info. For more developed work see the "Under review" section. </p>
 
-
 <h2> Countering the Reputation Crisis of Bureaucrats - Field Experimental Evidence From a Nation-Wide Union Campaign </h2> with Asmus Olsen
 
 <p align="center">
