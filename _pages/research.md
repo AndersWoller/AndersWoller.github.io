@@ -7,7 +7,9 @@ permalink: /Research/
 
 <h2> Countering the Reputation Crisis of Bureaucrats - Field Experimental Evidence From a Nation-Wide Union Campaign </h2> with Asmus Olsen
 
-<p style="font-size:12px"><p align="center"> <b>Keywords</b>: bureaucrat, public opinion, information, union campaign, job reputation</p>
+<p align="center">
+
+<p style="font-size:12px"> <b>Keywords</b>: bureaucrat, public opinion, information, union campaign, job reputation</p>
 
 <p align="right">
 
