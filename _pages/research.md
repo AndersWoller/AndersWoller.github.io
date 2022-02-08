@@ -6,8 +6,6 @@ permalink: /Research/
 
 <h2> Countering the Reputation Crisis of Bureaucrats - Field Experimental Evidence From a Nation-Wide Union Campaign </h2> with Asmus Olsen
 
-<p align="right">
-
 <p align="right"> <p style="font-size:15px"> “It is ironic that bureaucracy is still primarily a term of scorn” <br>
 <b>Anthony Downs</b>, Theory of the Bureaucracy (1965, p. 439)</p>
 <p align="right"> <p style="font-size:15px"> “It is easy to inveigh against the bureaucrat because he is a faceless enemy” <br>
@@ -16,6 +14,8 @@ permalink: /Research/
 <p align="left">
 
 <p style="font-size:14px"> Bureaucrats have a bad reputation. In the West, more than 40% of citizens report distrust in higher level civil servants to do what is right for the country (ISSP, 2018). But the reputation crisis is not restricted to the West and globally just short of 50% have no confidence in the civil service (World Values Survey, 2020). While the causes of this reputation crisis are surely multifaceted, one factor is arguably political. Examples abound: in 2016, then presidential candidate Donald Trump campaigned on fighting the deep state and he publicly derided government employees while in office (New York Times, 2021). In the UK, prime ministers Boris Johnson and Theresa May were accused of hanging their civil servants “out to dry” during the brexit negotiations (The Guardian, 2020). But although recent trends may have fueled the “myth of the useless bureaucrat” (New York Times, 2011), the skepticism has been around for ages. So much so that the term has been almost “universally regarded as an insult” (Downs, 1965, 440). As their job output is obscure to the public, bureaucrats risk becoming a straw man for citizen frustration with the state. Eventually, anti-bureaucrat sentiments may “hurt the public’s faith in government, the morale of employees who remain, and the prospects that a new generation will enter public service” (New York Times, 2021).</p>
+
+![GitHub Logo](/images/contextplot.png)
 
 <p style="font-size:14px">In this project, we study to what extent bureaucrats themselves are able to counter this deep skepticism through a range of survey and field experiments. We motivate the question by showing experimental effects of anti-bureaucratic sentiment on the motivation of current, and selection into civil service for future, bureaucrats. On this backdrop, we conduct a field experiment investigating to what extent bureaucrats, represented by their union, can improve on their public reputation. Specifically, we expose citizens to factual information on bureaucratic job tasks through a country-wide information campaign implemented in the Spring of 2022 by the main union for bureaucrats in Denmark. There is reason to believe that exposure to bureaucrats changes public perception, as their job tasks are often not transparent to the general public. In a nationally representative survey we fielded in Denmark in the Fall of 2021 (n=2,065), 80% report personally interacting with bureaucrats less than once a year. In this regard, Denmark is not unique and 95% of Americans report the same (ANES, 2020). The obscurity allows for the media and politicians to influence public opinion by presenting the bureaucracy in ways that promote their own agenda. Giving bureaucrats a face can improve public confidence, in turn helping to insulate bureaucracies from unfounded political criticism (Rogowski et al., 2020).</p>
 
