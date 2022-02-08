@@ -6,10 +6,6 @@ permalink: /Research/
 
 <h2> Countering the Reputation Crisis of Bureaucrats - Field Experimental Evidence From a Nation-Wide Union Campaign </h2> with Asmus Olsen
 
-<p align="center">
-
-<p style="font-size:12px"> <b>Keywords</b>: bureaucrat, public opinion, information, union campaign, job reputation</p>
-
 <p align="right">
 
 <p style="font-size:12px"> “It is ironic that bureaucracy is still primarily a term of scorn”</p>
