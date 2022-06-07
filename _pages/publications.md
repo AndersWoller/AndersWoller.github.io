@@ -4,7 +4,7 @@ permalink: /pub/
 author_profile: true
 ---
 
-<p style="font-size:16px"> Jacob Gerner Hariri; Mogens Kamp Justesen; <b>Anders Woller</b> (2020) <i>The Cost of Voting and the Cost of Votes</i>, conditional accept, Journal of Politics <a href="https://www.dropbox.com/s/76e4zspprdno5u1/JOP_3rdRound.pdf?dl=0">read</a> <p/>
+<p style="font-size:16px"> Jacob Gerner Hariri; Mogens Kamp Justesen; <b>Anders Woller</b> (2020) <i>The Cost of Voting and the Cost of Votes</i>, forthcoming, Journal of Politics <a href="https://www.dropbox.com/s/76e4zspprdno5u1/JOP_3rdRound.pdf?dl=0">read</a> <p/>
 
 <p style="font-size:16px"> Olsen, Asmus Leth and <b>Anders Woller</b> (2022) <i>Laypeople’s Economic Recovery Models for a Pandemic</i>, forthcoming, PLOS One <a href="https://www.dropbox.com/s/whdcje1z96htnwp/PlosOne_RR.pdf?dl=0">read</a> <p/>
 
